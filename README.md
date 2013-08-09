@@ -8,6 +8,7 @@ Its simple!
 
 Just copy the code below and past inside your html:
 
+```
 <script type="text/javascript">
   (function() {
     var mw = document.createElement('script'); mw.type = 'text/javascript'; mw.async = true;
@@ -15,6 +16,8 @@ Just copy the code below and past inside your html:
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mw, s);
   })();
 </script>
+```
+
 
 Have fun!
 
